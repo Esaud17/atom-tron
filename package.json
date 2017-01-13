@@ -1,7 +1,7 @@
 {
   "name": "atom-tron-legacy",
   "theme": "syntax",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "This a modified Riari theme And modified conversion of Dayle Rees' Tron Legacy for TextMate.",
   "repository": {
     "type": "git",
